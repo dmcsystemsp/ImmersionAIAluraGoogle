@@ -1,7 +1,7 @@
 # ImmersionAIAluraGoogle - Meu primeiro Chatbot
   Aprendendo AI com Alura e o Google
 
-## CHATBOT
+## MEU CHATBOT
 
 Meu primeiro chatbot é um programa que recebe uma entrda de texto do usuário('humano'), que passa um contexto e a AI Gemini do Google descreve uma saida!
 
